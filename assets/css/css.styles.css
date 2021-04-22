@@ -1,0 +1,186 @@
+body {
+  background-image: url(../../images/background1.jpg);
+  color: #FFF;
+}
+
+span {
+  color: #FE0303;
+}
+
+.css-red {
+  color: #FE0303;
+}
+
+.css-white {
+  color: #FFF;
+}
+
+.css-border-1 {
+  border-right: 1px solid #525252;
+  border-bottom: 1px solid #525252;
+}
+
+.css-choice-1 {
+  font-family: Arizonia;
+  color: #75FE03;
+  font-style: italic;
+}
+
+.css-img-1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: relative;
+  right: 200px;
+  bottom: 25px;
+}
+
+p {
+  font-size: small;
+}
+
+.css-additions {
+  font-size: x-small;
+  margin-top: 50px;
+}
+
+.css-price-1 {
+  background-color: #FE0303;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 80px;
+  height: 80px;
+  color: #FFF;
+  position: relative;
+  right: 140px;
+  bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-price-2 {
+  background-color: #FE0303;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 65px;
+  height: 65px;
+  color: #FFF;
+  font-size: small;
+  position: relative;
+  right: 75px;
+  bottom: 110px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-number-large {
+  font-size: x-large;
+  color: #FFF;
+}
+
+.css-number-small {
+  font-size: x-small;
+  color: #FFF;
+}
+
+.css-img-2 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: relative;
+  left: 5px;
+  bottom: 25px;
+}
+
+.css-choice-2 {
+  font-family: Arizonia;
+  color: #B05CDA;
+  font-style: italic;
+}
+
+.css-price-3 {
+  background-color: #FE0303;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+  color: #FFF;
+  font-size: small;
+  position: relative;
+  left: 60px;
+  bottom: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-number-medium {
+  font-size: medium;
+  color: #FFF;
+}
+
+.css-img-3 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  left: -360px;
+  top: 60px;
+}
+
+.css-price-4 {
+  background-color: #FE0303;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+  color: #FFF;
+  font-size: small;
+  position: relative;
+  right: 300px;
+  top: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-img-4 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: relative;
+  left: -15px;
+  bottom: 25px;
+}
+
+.css-choice-3 {
+  font-family: Arizonia;
+  color: #FF4191;
+  font-style: italic;
+}
+
+.css-img-4 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: relative;
+  left: 20px;
+  bottom: 25px;
+}
+
+.css-img-5 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: relative;
+  left: 40px;
+  bottom: 40px;
+}
+
+.css-choice-4 {
+  font-family: Arizonia;
+  color: #76D7C4;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=css.styles.css.map */
